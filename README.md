@@ -2,6 +2,8 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
+# Name : Vignesh S
+
 # Register Number : 212224110061
 
 # Date : 25-08-2025
